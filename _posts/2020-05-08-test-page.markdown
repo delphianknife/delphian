@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Introductory Post"
----
-
-# Immanue Kant 
-This is about ethics and Immanuel Kant 
