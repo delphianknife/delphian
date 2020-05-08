@@ -1,0 +1,14 @@
+name: Delphian Knife
+url: http://delphianknife.github.com/delphianknife
+description: No Science Can Replace My
+
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-paginate
+
+paginate: 10
+
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+ 
