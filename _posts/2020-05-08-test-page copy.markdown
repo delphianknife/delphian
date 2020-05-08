@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Introductory Post"
+title:  "Hegel Post"
 ---
 
-# Immanue Kant 
+## OnHegel Immanue Kant 
 This is about ethics and Immanuel Kant 
